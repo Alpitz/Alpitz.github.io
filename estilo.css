@@ -1,0 +1,21 @@
+h1{
+    color: greenyellow;
+    border: 10px outset orange;
+    background-color:green;
+    margin: 15px 0;
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+    display: inline-block;
+    color: gold
+}
+img{
+    border-radius:50%;
+    border: 10px dotted;
+    color: greenyellow
+}
+body{
+    background-color:darkslategrey;
+    color: gold;
+}
